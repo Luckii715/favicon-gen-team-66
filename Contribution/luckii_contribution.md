@@ -39,7 +39,6 @@ the features list _
 
 
 
-
 issue name _ Check/Identify inbalance of elements and interfaces across the hifidelity mobile and web designs 
 issue link _ https://github.com/zuri-training/favicon-gen-team-66/issues/74
 
